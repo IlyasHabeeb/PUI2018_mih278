@@ -6,6 +6,9 @@ We basically had to create environment variables and aliases.
 
 This screenshot displays the .bashrc file where I defined my environment variable and alias.
 
-![Alt text] (/Users/mac/Desktop/ss_1.png)
-![Alt text] (/Users/mac/Desktop/ss_2.png)
+![Alt text](../screenShots/ss_1.png)
+
+This screenshot demonstrates the alias in action.
+
+![Alt text](../screenShots/ss_2.png)
 
